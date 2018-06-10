@@ -1,0 +1,15 @@
+#ajax_search_results_go_here{    
+	display: inline-block;
+    width: 325px;
+    height: 50px;
+}
+
+#ajax_search_results_go_here li{
+	border-top:none;
+	border-bottom:none;
+	padding:0.7em
+}
+
+#ajax_search_results_go_here li:hover{
+	background-color:#ddd;
+}
